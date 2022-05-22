@@ -1,0 +1,29 @@
+Description = "歡迎來到J男孩的部落格，本網站用於紀錄J男孩的生活所見所學，很高興可以和大家分享。"
+Keywords =  "部落格, 程式, 閱讀, 思考, 筆記, 技術, 分享, J男孩"
+Subtitle = "Welcome to J-Boy's Blog"
+AuthorImg = "/img/author-logo.jpg"
+AuthorName = "J男孩"
+Introduce = "夢裡能到達的地方，腳步也能到達"
+DateFormat = "2006-01-02"
+YearFormat = "2006年"
+MonthFormat = "01-02"
+
+ArticleDeclContent = "本博客文章除特别声明外，均采用 <a href='https://creativecommons.org/licenses/by-nc-sa/3.0/' target='_blank' style='text-decoration: underline;'>CC BY-NC-SA 3.0</a>许可协议，转载请注明出处！"
+
+[Footer]
+  StorageLink = "https://gitee.com/"
+  StorageName = "GitHub"
+
+[[Socials]]
+  Name = ""
+  Icon = "github"
+  URL = "https://github.com/jacky0405"
+
+
+[[Links]]
+  Name = "閱讀筆記"
+  Permalink = "/categories/閱讀筆記/"
+
+[[Links]]
+  Name = "技術筆記"
+  Permalink = "/categories/技術筆記/"
